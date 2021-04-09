@@ -1,0 +1,4 @@
+unique_id,timestamp,y_pred,query_date,model_name,model_version,runtime
+cbd993a5-0161-4f65-aa7f-76792f9dff89,1617975958.1257973,[0],02-05-2000,Australia-ridge_regression,0.1,00:00:02
+74508aa7-11db-40e5-92d0-3ff17163cb20,1617975958.1280003,[0],02-05-2000,Australia-ridge_regression,0.1,00:00:02
+44a023b6-a7d4-4adf-b0f5-1ec1d0cbba0e,1617975958.5063827,[171777.78421807],2019-09-03,United Kingdom-ridge_regression,0.1,000:00:00

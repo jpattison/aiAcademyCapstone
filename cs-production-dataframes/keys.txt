@@ -1,0 +1,1 @@
+['all', 'United Kingdom', 'Germany', 'Spain', 'France', 'EIRE', 'Netherlands', 'Norway', 'Portugal', 'Hong Kong', 'Singapore']

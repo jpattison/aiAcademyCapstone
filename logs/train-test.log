@@ -1,0 +1,4 @@
+unique_id,timestamp,x_shape,eval_test,model_name,model_version,model_version_note,runtime
+ffdd5feb-8d32-4d97-bd75-0f59d041a2cd,1617975958.1124802,"(100, 10)",{'rmse': 0.5},test country-ridge_regression,0.1,RF on AAVAIL revenue data,00:00:01
+5380948a-3378-4b1c-b7ca-307b9eedd562,1617975958.114298,"(100, 10)",{'rmse': 0.5},test country-ridge_regression,0.1,RF on AAVAIL revenue data,00:00:01
+1b55b291-e6d5-4693-80d9-c0331ab8a042,1617975958.4397995,"(523, 6)",34913,all-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00

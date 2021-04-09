@@ -1,0 +1,243 @@
+unique_id,timestamp,x_shape,eval_test,model_name,model_version,model_version_note,runtime
+e425d594-6b99-4fc3-ae9d-4ea37c75544c,1617963794.1380699,"(581, 6)",73875,all-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+27f8ee04-3eb3-4f0a-99cf-f7f9c6e9463d,1617963794.155142,"(581, 6)",72681,United Kingdom-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+f6091d2b-58df-4b24-a5a1-fbb0571c5cfb,1617963794.1718702,"(581, 6)",1334,Portugal-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+b254c85e-a8fb-48f7-bc54-c09f65613de1,1617963794.187658,"(581, 6)",865,Germany-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+a529e434-55a3-4e7c-a51f-eff8ccf17f70,1617963794.2040691,"(578, 6)",3418,EIRE-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+3d0e4456-56e7-462c-bf14-4e400c5d9dca,1617963794.220828,"(581, 6)",1094,France-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+8dca5693-c2d0-4ebc-b8e2-498b0fa61941,1617963794.2382119,"(566, 6)",254,Netherlands-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+d4829769-ee12-43d7-93a2-f9b8f73ee279,1617963794.2538462,"(573, 6)",805,Spain-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+5340f28d-3931-4a72-8b70-53a994b087e9,1617963794.2713437,"(563, 6)",7001,Norway-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+401bfbb7-6b89-42bc-a1a3-e336a7db18ff,1617963794.288881,"(398, 6)",1592,Hong Kong-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+93326fa0-5088-4496-b97c-c7755ddafbf7,1617963794.3059163,"(418, 6)",2592,Singapore-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+3b8d0828-906a-4a4a-a9d7-ca80f0a903b2,1617963794.6188595,"(581, 6)",24773,all-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+40a848ab-8e6f-469f-ac7c-38c5c23eaf03,1617963794.846743,"(581, 6)",24229,United Kingdom-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+699468bd-542c-4065-941b-02fc1c623726,1617963794.9976523,"(581, 6)",1007,Portugal-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+4903f58d-8fd6-4e2d-8687-9811af7439c2,1617963795.198321,"(581, 6)",337,Germany-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+6d4ad511-6612-4225-b6cb-88b48bf22b61,1617963795.3856704,"(578, 6)",2000,EIRE-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+15d73990-5b30-4d08-8e35-b431111ff14f,1617963795.5655475,"(581, 6)",595,France-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+0a5cc333-6808-41a2-a3d3-06f8be27c958,1617963795.737659,"(566, 6)",114,Netherlands-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+9ec20d8b-9048-4164-9efc-5ade8b9020fa,1617963795.9066536,"(573, 6)",168,Spain-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+dc267f8d-4ff7-4594-b948-befa57fd9200,1617963796.0077353,"(563, 6)",4122,Norway-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+dd800016-c844-490f-9bb2-d42dc1ca5016,1617963796.1017873,"(398, 6)",902,Hong Kong-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+5d3a0f16-0165-4f15-9f0b-8b93f0a4c64e,1617963796.1903546,"(418, 6)",2328,Singapore-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+542ffa5d-a827-4a18-9977-1c683de37a97,1617963931.8390257,"(581, 6)",73875,all-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+f2665b05-5364-461a-935a-86a215bfbe13,1617963931.8592882,"(581, 6)",72681,United Kingdom-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+0fbba12a-f77f-4ed8-8123-fb384fa99967,1617963931.878218,"(581, 6)",1334,Portugal-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+09cb9b9d-4a20-44e0-a093-51d09e310897,1617963931.895533,"(581, 6)",865,Germany-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+c8719152-6aa3-4123-9158-1c3d0ef9da46,1617963931.9138193,"(578, 6)",3418,EIRE-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+efb70e3d-f2fe-452d-b1db-f24e7be29bfb,1617963931.930464,"(581, 6)",1094,France-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+d71c787c-bde0-4250-a802-7a6c1e95669d,1617963931.9462,"(566, 6)",254,Netherlands-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+135cade0-cdfa-488e-812d-af2f8e445d16,1617963931.962502,"(573, 6)",805,Spain-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+d061cf5e-b777-4960-9e19-2f17cc167584,1617963931.9782982,"(563, 6)",7001,Norway-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+ad8de4bd-3e51-4fa5-92e5-4ea108bb217a,1617963931.9943855,"(398, 6)",1592,Hong Kong-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+e2c4dd37-d619-4272-b21a-6e08ba0162e6,1617963932.0111403,"(418, 6)",2592,Singapore-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+bba2a605-b70d-4945-b3e0-51aaf2fb18db,1617963932.254062,"(581, 6)",24773,all-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+721ddd3a-9cda-4d7e-a6c8-7c0741f1b420,1617963932.4583278,"(581, 6)",24229,United Kingdom-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+e2f91a4f-f80e-4a85-b9f4-ef673b5018df,1617963932.596788,"(581, 6)",1007,Portugal-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+38f44787-78f9-499d-ae6f-4a5951a2b404,1617963932.776783,"(581, 6)",337,Germany-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+1efedef4-2799-4856-814d-e9301b522589,1617963932.9562857,"(578, 6)",2000,EIRE-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+4829c1e9-0dc0-4006-8027-42790d53120a,1617963933.1272998,"(581, 6)",595,France-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+b154394c-b7ef-4ee5-b54d-f55a6b4d36e0,1617963933.2898767,"(566, 6)",114,Netherlands-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+fefd65e5-fcdb-4fc2-8950-85d126bc5999,1617963933.4367657,"(573, 6)",168,Spain-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+2d8a1881-2f40-48fc-9ed2-bd050dba4d86,1617963933.5458326,"(563, 6)",4122,Norway-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+54f38857-78a1-4dc3-bfe1-a0cfef244b6f,1617963933.6279783,"(398, 6)",902,Hong Kong-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+a7840644-2a06-4b1e-8803-bacc0f8523e8,1617963933.7110856,"(418, 6)",2328,Singapore-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+6af9343c-da10-4ec8-9e9d-e5fd91201f26,1617964039.4490547,"(581, 6)",73875,all-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+67225977-dcaa-46a6-a9c1-ad20e602e968,1617964039.4681919,"(581, 6)",72681,United Kingdom-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+35275341-59f6-425b-b588-a070188b8e05,1617964039.485746,"(581, 6)",1334,Portugal-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+946f9d77-522b-4c9d-9936-f3fb7ad96772,1617964039.503943,"(581, 6)",865,Germany-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+5217e1fd-b935-4835-abae-d280170a7d2b,1617964039.5197742,"(578, 6)",3418,EIRE-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+a390d7f4-3638-4049-adc7-a78ca7ef5b36,1617964039.5356362,"(581, 6)",1094,France-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+f0673e03-b232-4916-bcfe-7db008685e9d,1617964039.5509763,"(566, 6)",254,Netherlands-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+a6c354c3-2bc2-4dd5-82ed-b9b4a67b4b60,1617964039.5674222,"(573, 6)",805,Spain-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+fe328842-a2c4-4530-ab3d-6184b2361667,1617964039.5898798,"(563, 6)",7001,Norway-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+f0786b83-1b89-44b7-adbd-8f32a84f3079,1617964039.6066782,"(398, 6)",1592,Hong Kong-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+62d2c8f8-045c-466f-9c82-07cc9343d171,1617964039.6244793,"(418, 6)",2592,Singapore-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+8b1e3d8b-55ea-4f3e-9904-e72d36ec6a0e,1617964039.8963227,"(581, 6)",24773,all-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+e66cb836-9c53-4a2b-a3ad-3c4c533e7dbd,1617964040.1227744,"(581, 6)",24229,United Kingdom-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+fa5b0c71-efdf-4de2-8e37-c5befbe30431,1617964040.2626705,"(581, 6)",1007,Portugal-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+dbe54687-ebfc-4a42-9af5-42b296b48a98,1617964040.4479208,"(581, 6)",337,Germany-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+b59ed5de-0beb-437c-ac04-1f83e8d570c8,1617964040.646668,"(578, 6)",2000,EIRE-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+5e5cbea1-8318-46f4-a158-b332a8b825df,1617964040.8442361,"(581, 6)",595,France-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+8e2a02ae-84a8-4444-9e2c-7cc6d1d98cfe,1617964041.007699,"(566, 6)",114,Netherlands-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+30567589-0ff8-4f46-95fb-2131378c21ca,1617964041.1573308,"(573, 6)",168,Spain-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+056355fa-d82a-4551-b545-d8c52bff039a,1617964041.2605016,"(563, 6)",4122,Norway-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+9250fc69-0ab3-43c1-aab7-a8a2a390b225,1617964041.3464787,"(398, 6)",902,Hong Kong-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+22429643-1cf9-49ea-b1d1-0928e15b4bc6,1617964041.4282255,"(418, 6)",2328,Singapore-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+fb2bbf05-3b3c-4fd1-bdf8-d5020a89e818,1617965757.9017608,"(581, 6)",73875,all-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+30f63fd4-ed2b-44ae-8c70-262f5659e0c9,1617965757.9216046,"(581, 6)",72681,United Kingdom-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+2737a4a4-4407-4ff3-9306-86d1031fc0f5,1617965757.938034,"(581, 6)",1334,Portugal-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+9be99654-2a97-4768-af64-abb7d18cd5d4,1617965757.9570131,"(581, 6)",865,Germany-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+249f6270-4173-4c09-9172-b292bed3ba4a,1617965757.9766586,"(578, 6)",3418,EIRE-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+f9dad9b3-4576-428c-b0f7-60956d1561bf,1617965757.995179,"(581, 6)",1094,France-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+16d0fe01-6ca1-496b-8f85-d120928889b9,1617965758.0123315,"(566, 6)",254,Netherlands-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+40eda0a1-7fd8-49dd-b129-b20d62bfbc66,1617965758.029894,"(573, 6)",805,Spain-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+59e2abf6-5040-4bca-a8aa-33deaa263abd,1617965758.0483766,"(563, 6)",7001,Norway-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+67772e28-d4ac-4922-a68a-30e6af73f125,1617965758.065944,"(398, 6)",1592,Hong Kong-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+5988228a-77f3-4c52-9661-694383b8bfc5,1617965758.0835385,"(418, 6)",2592,Singapore-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+6e12bb1f-6687-4ef8-bee6-d4ba5e01c45c,1617965758.363983,"(581, 6)",24773,all-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+546be4ef-1f42-44f4-ad74-2207eeebe57d,1617965758.596839,"(581, 6)",24229,United Kingdom-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+5348a9be-9e69-4edc-afc7-794da4726c8e,1617965758.7412567,"(581, 6)",1007,Portugal-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+6c749bd2-d374-45df-9bfb-e62f2424b79c,1617965758.9359372,"(581, 6)",337,Germany-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+71139cab-d056-4fad-a3df-582709399bb7,1617965759.1567407,"(578, 6)",2000,EIRE-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+5c86d653-72bc-4453-90f5-54f9fffa43b8,1617965759.345344,"(581, 6)",595,France-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+5ff7d471-d3bd-48c4-b151-12d4738adf3f,1617965759.5154738,"(566, 6)",114,Netherlands-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+c867deac-b63e-48c8-84e6-ba2131034fc7,1617965759.6799545,"(573, 6)",168,Spain-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+9a11337b-e450-4853-92be-18d75066f4a8,1617965759.8224466,"(563, 6)",4122,Norway-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+5d07611b-ff79-4a3a-a65e-5ff24bb9e83e,1617965759.9355435,"(398, 6)",902,Hong Kong-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+0aecde79-f7ff-46ea-9fbf-8a27b43239e3,1617965760.0314152,"(418, 6)",2328,Singapore-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+be6d48bb-6a0c-4835-b137-4c9c18d0d85c,1617965796.8285294,"(581, 6)",73875,all-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+f3ce944b-4d19-4f8d-afd7-e68c5bb958ad,1617965796.8507817,"(581, 6)",72681,United Kingdom-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+86c43e36-e33f-4aa5-87ef-83220bb15f20,1617965796.8702693,"(581, 6)",1334,Portugal-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+d2108b62-7765-48ee-be67-f2d66613c024,1617965796.887907,"(581, 6)",865,Germany-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+1c8ef205-15fe-41b7-9f57-a6de5ea122b9,1617965796.9042654,"(578, 6)",3418,EIRE-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+5bcc8c24-2f6b-4051-9188-bd4e1d544468,1617965796.9199984,"(581, 6)",1094,France-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+4f605999-fabf-4045-9b4f-2029c361ad8d,1617965796.9376605,"(566, 6)",254,Netherlands-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+25ad3239-f9ee-4351-9546-b61ca583b0d4,1617965796.9541745,"(573, 6)",805,Spain-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+f0a96808-1f88-412a-88a2-74eccd0732c0,1617965796.970034,"(563, 6)",7001,Norway-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+f6397b0d-beb2-478c-bb90-bc87e7dd768d,1617965796.987253,"(398, 6)",1592,Hong Kong-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+13745dbb-d0f0-4a0f-9303-54ab15f3eb1e,1617965797.0058527,"(418, 6)",2592,Singapore-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+5016c85d-88b7-4f48-b0cf-41c32f99bb26,1617965797.272078,"(581, 6)",24773,all-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+4b58ed07-32b2-4c60-9971-e26d84caa19f,1617965797.4979064,"(581, 6)",24229,United Kingdom-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+4ffde83f-a6f1-43f1-9ee2-64c8c8688d23,1617965797.6447139,"(581, 6)",1007,Portugal-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+b2580257-411a-4d62-97ac-3b316151c2fe,1617965797.849571,"(581, 6)",337,Germany-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+8253e5d3-cec1-4f38-a615-59270a662554,1617965798.0594656,"(578, 6)",2000,EIRE-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+0b3e31b3-af09-4021-a913-5dd2b414f9da,1617965798.288928,"(581, 6)",595,France-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+4c242271-303f-409a-8042-292bcb9360d2,1617965798.4634612,"(566, 6)",114,Netherlands-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+157c83ce-2c50-4662-81e2-281809d44d85,1617965798.6245403,"(573, 6)",168,Spain-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+3e7a1333-06c9-4e7d-91f7-f5cd1e2d8dce,1617965798.736256,"(563, 6)",4122,Norway-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+519fa990-140d-440c-9eda-9ff3ca73d7f4,1617965798.8350267,"(398, 6)",902,Hong Kong-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+99cf498c-dd99-40cb-ae9e-73c1250bacdb,1617965798.926961,"(418, 6)",2328,Singapore-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+c845d02f-ef04-4db8-80c8-38b4f424fd6c,1617965829.1929636,"(581, 6)",73875,all-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+96820d24-6395-4bda-ace0-b9ab52ce3a38,1617965829.211639,"(581, 6)",72681,United Kingdom-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+077b3cd9-72c5-4291-badc-5b995cc62ad6,1617965829.2280934,"(581, 6)",1334,Portugal-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+ca906b01-cf1c-4435-b111-f8dc27b39bed,1617965829.245772,"(581, 6)",865,Germany-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+da953a47-6dd5-49da-8daf-0416cc0ba06a,1617965829.264438,"(578, 6)",3418,EIRE-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+93e93910-ef57-415a-a67c-ed6867336f45,1617965829.2856493,"(581, 6)",1094,France-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+545ceaf1-4641-4470-adad-ff3bcf33f67e,1617965829.305173,"(566, 6)",254,Netherlands-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+4213f228-5f27-4e11-9518-358c5ffe64ee,1617965829.3242137,"(573, 6)",805,Spain-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+97a726f0-7e13-41f2-917e-bee475482e1c,1617965829.3450735,"(563, 6)",7001,Norway-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+be12201b-cabb-4ed4-968e-e629203a2c56,1617965829.3640904,"(398, 6)",1592,Hong Kong-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+109ac907-f54c-4dea-9c43-2846b52e35d4,1617965829.3818908,"(418, 6)",2592,Singapore-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+90b85206-0536-4f94-b7e8-836c2e3d358a,1617965829.6666305,"(581, 6)",24773,all-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+dfae4211-99de-4d91-82df-2cf2992fad47,1617965829.8741357,"(581, 6)",24229,United Kingdom-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+f30514ce-896a-4ab1-a85f-5cb8982ea168,1617965830.017649,"(581, 6)",1007,Portugal-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+732efddd-19d2-429a-82cf-1f967c434e5b,1617965830.212562,"(581, 6)",337,Germany-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+e0747cfe-419d-4695-9bdd-32fe272c5452,1617965830.4143932,"(578, 6)",2000,EIRE-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+8df7ee3f-4028-4ee6-ba72-a568f56a2343,1617965830.5924554,"(581, 6)",595,France-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+fe7a6f72-27e7-4bb2-bb17-34c1f4f89c25,1617965830.7565377,"(566, 6)",114,Netherlands-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+51ae7671-1d31-4a3c-b7fe-925b23da57bf,1617965830.904192,"(573, 6)",168,Spain-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+57a7a6d9-ffb4-49f6-9083-6198efafff4b,1617965831.0033107,"(563, 6)",4122,Norway-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+827734e4-8565-42e0-975a-9280c1644448,1617965831.0896716,"(398, 6)",902,Hong Kong-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+6725dad9-fb0e-4fca-ae75-66d27100e169,1617965831.170899,"(418, 6)",2328,Singapore-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+5a0fbe45-3900-4d52-b1f3-88dccef39eac,1617966544.056422,"(581, 6)",73875,all-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+e1fe730d-1d48-4416-98e1-2bde6f9cc4c9,1617966544.0739672,"(581, 6)",72681,United Kingdom-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+9a9f37c4-802b-4a72-9db1-4af0d4455582,1617966544.0907226,"(581, 6)",1334,Portugal-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+27a3c5ae-1c8a-49c2-affe-aa97e4ccdc34,1617966544.1080897,"(581, 6)",865,Germany-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+5516b314-47a4-4d28-821c-03d7f2f4f4c9,1617966544.1254733,"(578, 6)",3418,EIRE-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+940bf5bf-26f9-4be8-bb70-d903c6a8ed63,1617966544.1424613,"(581, 6)",1094,France-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+bd924f45-4b5c-4a4e-ab08-b9231b3a579a,1617966544.1588795,"(566, 6)",254,Netherlands-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+f56292d6-af00-482e-86aa-92149aefad5d,1617966544.1770594,"(573, 6)",805,Spain-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+3dc83564-b3dd-41a1-9b4e-c61a0e0e4b79,1617966544.1938322,"(563, 6)",7001,Norway-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+8603e62f-2239-4661-bee9-fbdce6ca8049,1617966544.211492,"(398, 6)",1592,Hong Kong-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+1ad856d0-a8fd-4c11-922d-9002d35a4a26,1617966544.229258,"(418, 6)",2592,Singapore-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+52c5ad57-1852-426a-b1c0-797cc4ba69e3,1617966544.5182662,"(581, 6)",24773,all-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+de714957-e34b-49f7-ad92-3b04a44f568a,1617966544.7672665,"(581, 6)",24229,United Kingdom-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+2a1f22e4-c521-4cf9-a050-31683e980443,1617966544.9293923,"(581, 6)",1007,Portugal-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+95ffb971-cea7-4c81-959e-663f339dbb1e,1617966545.1506567,"(581, 6)",337,Germany-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+3f2cabf6-5a16-406f-b3d2-a10e2320c5b0,1617966545.3474793,"(578, 6)",2000,EIRE-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+acbf3257-62a7-4315-ab97-b0c442962b5a,1617966545.5338595,"(581, 6)",595,France-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+63716118-12da-4ccb-8a65-eb4d132adfdd,1617966545.6970568,"(566, 6)",114,Netherlands-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+34ae6b6a-a185-4ea6-87dd-72e1c102cc81,1617966545.8798459,"(573, 6)",168,Spain-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+49698313-23b1-44a4-b843-968dd2cb3a8f,1617966546.0041049,"(563, 6)",4122,Norway-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+0d61b481-63d5-4634-93da-60f7c31a2ff3,1617966546.1202104,"(398, 6)",902,Hong Kong-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+07ec313d-1e77-4545-9d30-29c3c0d37c7a,1617966546.2098753,"(418, 6)",2328,Singapore-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+098264e7-131b-4bec-9639-370a5a054efa,1617969424.0165827,"(581, 6)",73875,all-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+77828347-2884-4e02-b697-9ddbf8fc5787,1617969424.0368721,"(581, 6)",72681,United Kingdom-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+7949846c-3524-4732-836d-96892371c529,1617969424.0543883,"(581, 6)",1334,Portugal-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+f12c626f-b5ff-4491-90f7-409608e26283,1617969424.071142,"(581, 6)",865,Germany-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+9aff0c62-ab49-4696-824e-6743e5f52c4d,1617969424.0888984,"(578, 6)",3418,EIRE-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+4a121cb4-5f88-4448-bc40-10d9f04b306d,1617969424.1075263,"(581, 6)",1094,France-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+c0721712-f648-421d-b650-93626d8cf4d5,1617969424.126022,"(566, 6)",254,Netherlands-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+5b407c25-24f1-4988-b26d-c7bb4a8c5489,1617969424.1454475,"(573, 6)",805,Spain-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+b2905e77-4f86-4f1a-a6c0-a79470664e4a,1617969424.1654043,"(563, 6)",7001,Norway-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+6fb76b6e-eea2-4352-a3f8-663b4ee95bb9,1617969424.183917,"(398, 6)",1592,Hong Kong-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+f299aa78-2747-4dc5-bb06-2dbe3eda2057,1617969424.2048242,"(418, 6)",2592,Singapore-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+32f140c9-8925-4091-ad67-5541ffb32dfd,1617969424.512095,"(581, 6)",24773,all-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+ccaa1f96-f5ea-4f15-9f49-f60a872a251e,1617969424.7372248,"(581, 6)",24229,United Kingdom-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+ed0abc97-7ebb-46cb-bef9-041e25230bba,1617969424.9010375,"(581, 6)",1007,Portugal-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+9ac08e32-c179-4ebd-8f07-514530f23cf6,1617969425.1066227,"(581, 6)",337,Germany-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+d065dd61-5cdb-4e75-af29-f586d43b0132,1617969425.3239815,"(578, 6)",2000,EIRE-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+e67c3731-2b05-4b49-be1f-2a7e963e2de0,1617969425.5818546,"(581, 6)",595,France-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+f31e668a-50c3-47c2-baa3-309cc8842c85,1617969425.7615561,"(566, 6)",114,Netherlands-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+b36bf18e-61e9-4722-979a-be0182dbf773,1617969425.9279792,"(573, 6)",168,Spain-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+46856682-005f-4bb0-bb3f-a4afc0504888,1617969426.0419505,"(563, 6)",4122,Norway-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+3582eb55-2dda-462c-a5a1-f2eeb5651ef8,1617969426.1331632,"(398, 6)",902,Hong Kong-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+d6de4505-1f9b-4888-b225-1e9cb7b65ad6,1617969426.2206216,"(418, 6)",2328,Singapore-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+7384b89c-1f2b-455c-aee4-89fbf09ad0df,1617969553.2414024,"(581, 6)",73875,all-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+ee2234e9-b2ac-48e9-9fd8-d9ef63fe735a,1617969553.2580385,"(581, 6)",72681,United Kingdom-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+794faaad-5caa-4a06-8617-7d8ad9fa1ec8,1617969553.2752059,"(581, 6)",1334,Portugal-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+2608491c-10ed-45d7-86d3-b0aef096da87,1617969553.2927635,"(581, 6)",865,Germany-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+92184e6c-caa7-4e0a-8a2b-76f58f03be6e,1617969553.3102186,"(578, 6)",3418,EIRE-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+0cb09336-0575-469e-9a17-b8ef1f9f7c39,1617969553.3277392,"(581, 6)",1094,France-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+53d2ed21-cea1-4626-917c-89fa20b6d2e2,1617969553.3452585,"(566, 6)",254,Netherlands-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+9a62e720-d913-4c6c-9184-202940317676,1617969553.3636222,"(573, 6)",805,Spain-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+ff30a6be-d642-49bc-a0e0-5c63af0e6f02,1617969553.3817263,"(563, 6)",7001,Norway-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+a1a58afb-b4ca-4ab7-b466-c7c768a9fccd,1617969553.4001367,"(398, 6)",1592,Hong Kong-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+4097a16c-f274-4216-a206-ccfe44cd8524,1617969553.4183235,"(418, 6)",2592,Singapore-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+ff63c99f-b587-4587-b1c7-f126ffed674d,1617969553.7053912,"(581, 6)",24773,all-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+e270087a-4145-4623-9078-18de89d8b50b,1617969553.925052,"(581, 6)",24229,United Kingdom-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+35bf3051-59ec-40d4-a8e1-2b639959a694,1617969554.067573,"(581, 6)",1007,Portugal-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+5b2febab-0070-464d-b5a3-18268c26a1ae,1617969554.289909,"(581, 6)",337,Germany-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+92ad646e-db2a-467d-85b4-1e2111eff128,1617969554.5323658,"(578, 6)",2000,EIRE-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+2849e93f-2ee3-444b-9275-39a4a71c20cd,1617969554.7477167,"(581, 6)",595,France-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+867a9911-f948-4a54-975d-81728b7b789d,1617969554.9680967,"(566, 6)",114,Netherlands-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+3515fb27-8eb9-40d7-a6d8-aa4d25e67fee,1617969555.2056613,"(573, 6)",168,Spain-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+c8a0cf95-7f8f-4f55-8536-28ce2b940548,1617969555.3752606,"(563, 6)",4122,Norway-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+cf6dc5f3-c1a9-422e-ae7b-7da0fa0ddd99,1617969555.5068157,"(398, 6)",902,Hong Kong-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+47e6aea4-6ac1-438b-a9ec-43a258e9279e,1617969555.6379776,"(418, 6)",2328,Singapore-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+f68e2e40-5c6e-4bc2-98e0-54b8b736f10d,1617970063.8304722,"(581, 6)",73875,all-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+bc001896-3af6-4074-b5ba-1d215a9e8ed9,1617970063.8485506,"(581, 6)",72681,United Kingdom-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+a14f92a9-cab9-454e-b9bf-c017f5872ead,1617970063.866014,"(581, 6)",1334,Portugal-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+8f653fea-d25f-4fe5-bc39-e1e26366dcb1,1617970063.8828356,"(581, 6)",865,Germany-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+98f509af-0538-44c8-a4ca-0b2b9e2ace59,1617970063.9003472,"(578, 6)",3418,EIRE-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+59928d71-5b9a-4543-a6cc-707ed4b41f7b,1617970063.917888,"(581, 6)",1094,France-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+1cbe5fbb-3c14-484e-b7b7-38cf02b4561a,1617970063.9355989,"(566, 6)",254,Netherlands-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+cce5b1e6-4335-48ea-9c00-8dfbebea2236,1617970063.9532642,"(573, 6)",805,Spain-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+379448e1-3f18-4e13-8251-84eb3c4923b1,1617970063.9704165,"(563, 6)",7001,Norway-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+79d4fafe-6f8a-46ef-b722-afa45052078c,1617970063.9902184,"(398, 6)",1592,Hong Kong-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+3f4176f6-6096-43e2-8081-8a08b0509858,1617970064.0228302,"(418, 6)",2592,Singapore-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+7bdaa552-a90e-4720-8ed0-35a1d5bae2de,1617970064.3017704,"(581, 6)",24773,all-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+695e16b4-e215-4c1c-a555-cdc8c8f7ae08,1617970064.5263574,"(581, 6)",24229,United Kingdom-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+c13fdab5-41b7-4184-b4aa-84f19657aa53,1617970064.667179,"(581, 6)",1007,Portugal-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+2cf7d1f7-cc30-4b58-a2e8-78325aee69b4,1617970064.8826363,"(581, 6)",337,Germany-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+e06f83cf-44ee-4abe-840b-8d10b6522c48,1617970065.0898788,"(578, 6)",2000,EIRE-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+2be50a05-b7dd-4f1c-bfa0-c7442fa73fb4,1617970065.2869968,"(581, 6)",595,France-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+0ea5ed20-56a4-4b67-a2bb-8c097b8932ad,1617970065.46045,"(566, 6)",114,Netherlands-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+9c8522f7-84d2-4be3-8a14-412542c10b5e,1617970065.6363368,"(573, 6)",168,Spain-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+08ba690a-282a-4afd-9fcd-13d8f9a63ec9,1617970065.7568595,"(563, 6)",4122,Norway-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+3755b874-12f1-4fff-a49a-68e57970c036,1617970065.8736913,"(398, 6)",902,Hong Kong-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+4571a955-e388-437e-83d5-e26d2e7ab737,1617970065.9672518,"(418, 6)",2328,Singapore-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+d7254153-f4a9-43ca-bfa9-71259ea09136,1617975954.414126,"(581, 6)",73875,all-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+087b9f12-48f8-4095-b4cc-cb5f2b19dcc5,1617975954.4324546,"(581, 6)",72681,United Kingdom-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+5e499aaf-1799-403a-93c7-6cc3003745cd,1617975954.4476144,"(581, 6)",1334,Portugal-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+3f446c87-9787-42d9-9738-6ad1d3f5e7dd,1617975954.4634192,"(581, 6)",865,Germany-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+08ef88a1-aebe-48dc-9af9-2fd4858cd271,1617975954.4796708,"(578, 6)",3418,EIRE-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+4b0faf35-386d-4c98-a846-b1ccffc84d5f,1617975954.4952114,"(581, 6)",1094,France-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+f089fb71-c247-43af-a0d1-420dc902bef1,1617975954.511641,"(566, 6)",254,Netherlands-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+b3595289-6a96-45da-850c-b3c86060beff,1617975954.5293212,"(573, 6)",805,Spain-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+57eba4a4-77fc-4f78-8e36-df0e0fbfc976,1617975954.5462642,"(563, 6)",7001,Norway-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+99499a27-1f73-40f1-b745-259f6bd0a525,1617975954.5611436,"(398, 6)",1592,Hong Kong-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+5fe08262-f9c4-4542-a6b8-c054259c0405,1617975954.5765905,"(418, 6)",2592,Singapore-ridge_regression,0.1,RF on AAVAIL revenue data,000:00:00
+0a462e26-3011-419f-bbbd-394c59f51675,1617975954.8551772,"(581, 6)",24773,all-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+bb2ca2f7-de87-484a-bbc9-c76bc69889bd,1617975955.0867686,"(581, 6)",24229,United Kingdom-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+6c2ee38f-a2c4-48f3-9925-42516e694d10,1617975955.2317414,"(581, 6)",1007,Portugal-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+961cc08b-aa75-4642-9657-0f9ab3ef8859,1617975955.4417243,"(581, 6)",337,Germany-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+414244eb-d0cc-4c75-b5f5-ac7b2d2184d9,1617975955.660106,"(578, 6)",2000,EIRE-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+424eb4d5-e508-423c-b3a4-01c3fb482df9,1617975955.9091957,"(581, 6)",595,France-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+ab160190-3f6d-435b-8147-571ba2fcc087,1617975956.092149,"(566, 6)",114,Netherlands-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+1063a3e4-898a-4622-99c0-8ffe1f3f7cda,1617975956.2475379,"(573, 6)",168,Spain-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+b3651604-00de-4532-9cc0-62db2210b053,1617975956.353207,"(563, 6)",4122,Norway-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+032c2733-708d-4292-9b3f-16a3b66d7aa8,1617975956.4403906,"(398, 6)",902,Hong Kong-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00
+5cbb874c-f23c-4415-a8d7-529f64919f4a,1617975956.5261245,"(418, 6)",2328,Singapore-gradient_boosting_regression,0.1,Gradient Boosting Regression on AAVAIL churn,000:00:00

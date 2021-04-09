@@ -1,0 +1,12 @@
+scikit-learn==0.23
+ibm-watson-machine-learning
+pandas
+numpy
+jupyter
+ibm-ai-openscale
+spacy==2.3.5
+matplotlib
+seaborn
+cython
+flask
+
